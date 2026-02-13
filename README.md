@@ -29,14 +29,12 @@
 ### GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=GustinRhezaRNA&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustinRhezaRNA&layout=compact&theme=transparent&hide_border=true&cache_seconds=3600" 
-    height="165"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustinRhezaRNA&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustinRhezaRNA&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustinRhezaRNA&theme=github_dark" />
 </p>
 
 ---
