@@ -1,45 +1,59 @@
-<h2 align="left">Hi 👋! My name Gustin Rheza and I'm a Web Developer Ennthusiast, from Indonesia</h2>
+<h1 align="center">Hi 👋, I'm Gustin Rheza</h1>
+<h3 align="center">Web Developer Enthusiast from Indonesia 🇮🇩</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustinRhezaRNA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustinRhezaRNA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+## About Me
+-  Currently learning **Fullstack Development**
+-  Focused on modern web technologies
+-  Goal: Becoming a Professional Software Engineer
+-  Fun fact: I love building clean and minimal UI
 
+---
 
+## 🛠 Tech Stack
 
-###
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,nodejs,tailwind,git" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-</div>
+---
 
-###
+## 📊 GitHub Stats
 
-<div align="left">
- <a href="https://www.instagram.com/rhezaazdy" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-</a>
-<a href="mailto:rezarna4@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-</a>
-<a href="https://www.linkedin.com/in/gustin-rheza-r-n-a-11b22424b" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-</a>
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=GustinRhezaRNA&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustinRhezaRNA&layout=compact&theme=tokyonight&cache_seconds=1800" 
+    height="160"
+  />
+</p>
 
-###
+---
 
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=GustinRhezaRNA&theme=tokyonight&hide_border=false" 
+  />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.instagram.com/rhezaazdy" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
+  </a>
+  <a href="mailto:rezarna4@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gustin-rheza-r-n-a-11b22424b">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+  </a>
+</p>
