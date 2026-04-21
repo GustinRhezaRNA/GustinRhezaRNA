@@ -8,8 +8,6 @@
 ### About Me
 
 - Focused on modern fullstack development
-- Love building scalable React & Next.js apps
-- Currently exploring backend architecture
 - Goal: Becoming a high-impact software engineer
 
 ---
