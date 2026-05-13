@@ -1,6 +1,6 @@
 <h1 align="center">Gustin Rheza</h1>
 <p align="center">
-  Fullstack Web Developer • Indonesia 🇮🇩
+  Fullstack Developer • Indonesia 🇮🇩
 </p>
 
 ---
