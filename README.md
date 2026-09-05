@@ -14,13 +14,9 @@
 
 ### Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,laravel,html,css,tailwind,git" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,laravel,go,python,fastapi,html,css,tailwind,git" /> </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tanstack" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=tanstack,gin" /> </p>
 
 ---
 
