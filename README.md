@@ -14,9 +14,14 @@
 
 ### Tech Stack
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,laravel,go,python" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,laravel,go,python" />
+</p>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=fastapi,gin,flutter,html,css,tailwind,git,tanstack" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flutter,html,css,tailwind,git,tanstack" />
+  <img src="https://gin-gonic.com/img/logo.svg" height="48" alt="Gin" />
+</p>
 
 ---
 
