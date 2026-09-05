@@ -20,7 +20,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,flutter,html,css,tailwind,git" />
-  <img src="https://gin-gonic.com/img/logo.svg" height="48" alt="Gin" />
   <img src="https://cdn.simpleicons.org/tanstack/FF4154" height="48" alt="TanStack" />
 </p>
 
